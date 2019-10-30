@@ -1,0 +1,28 @@
+{
+  "name": "N",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.1.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arimsingle/eieiei.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arimsingle/eieiei/issues"
+  },
+  "homepage": "https://github.com/Arimsingle/eieiei#readme",
+  "description": ""
+}
