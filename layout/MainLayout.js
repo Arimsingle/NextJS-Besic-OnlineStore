@@ -5,7 +5,7 @@ const Main = () => {
         <div className="container">
             <div className="topbar">
                 <div className="logo-container">
-                    <Link href="/"><a className="link">Stock</a></Link>
+                    <Link href="/index"><a className="link">Stock</a></Link>
                 </div>
                 <div className="menu-container">
                     <div><Link href="/product"><a className="link">Product</a></Link></div>
